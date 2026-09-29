@@ -4,6 +4,7 @@ Web scraper yang mengumpulkan daftar lowongan kerja dari situs Fake Python Jobs.
 
 ## Project URL
 https://realpython.github.io/fake-jobs/
+https://roadmap.sh/projects/job-listings-scraper
 
 ## Fitur
 - Mengambil Job Title, Company Name, Location, dan Job Detail URL
